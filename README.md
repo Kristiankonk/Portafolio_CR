@@ -21,6 +21,9 @@ Este portafolio reúne mis principales proyectos, prototipos y trabajos técnico
    - Python Programación Orientada a Objetos
    - Enlace repositorio: https://github.com/Kristiankonk/cibersecurity.git
 
+    ## ENLACE HOSTING : 
+    https://kristiankonk.github.io/proyecto_cloud/index.html
+
 3. **AutoFix - Plataforma de agenda revisión de autos**
    - Python, manejo de excepciones
    - Enlace repositorio: https://github.com/Kristiankonk/AutoFix_grupoX.git
